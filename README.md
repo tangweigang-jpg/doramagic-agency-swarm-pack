@@ -21,7 +21,7 @@ This independent capability pack gives AI coding hosts verifiable agency-swarm w
 3. Verify with `06_EVALS/smoke_check.md`; recover from `03_PITFALL_LOG.md` if it fails.
 
 Quick links:
-[Start](./AGENTS.md) · [Prompt](./01_PROMPT_PREVIEW.md) · [Evals](./06_EVALS/) · [Pitfalls](./03_PITFALL_LOG.md)
+[Start](./AGENTS.md) · [Prompt](./01_PROMPT_PREVIEW.md) · [Evals](./06_EVALS/) · [Pitfalls](./03_PITFALL_LOG.md) · [Manual](./05_HUMAN_MANUAL.md)
 
 ## When This Helps
 

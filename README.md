@@ -1,4 +1,4 @@
-# agency-swarm Doramagic Pack
+# Agency Swarm AI Context Pack for Claude Code, Codex, Cursor, and Aider
 
 Pack version: `v1.0.0` · Last updated: `2026-05-15`
 
@@ -9,6 +9,8 @@ Pack version: `v1.0.0` · Last updated: `2026-05-15`
 Languages: English | [中文](./README.zh-CN.md)
 
 Multi-agent orchestration breaks at agent handoffs, message routing, and shared state boundaries.
+
+This is an independent AI context resource pack for VRSEN/agency-swarm.: host instructions, prompt preview, evals, pitfalls, and recovery rules you can load into Claude Code, Codex, Cursor, Aider, and other AI coding agents.
 
 This independent capability pack gives AI coding hosts verifiable agency-swarm workflows with coordination rules, boundary checks, and recovery steps for real failures.
 
@@ -25,7 +27,8 @@ Quick links:
 
 ## When This Helps
 
-Use this pack when you want an AI agent to work with agency-swarm's multi-agent coordination without guessing at failure modes or pretending the upstream tool is installed and verified.
+Use this pack when you want an AI coding agent to understand the upstream project context, setup boundaries, common pitfalls, and verification steps before it edits files, installs dependencies, or claims the tool is ready.
+
 
 ## What You Get
 
@@ -34,6 +37,7 @@ Use this pack when you want an AI agent to work with agency-swarm's multi-agent 
 - Acceptance checks.
 - Real pitfall log with recovery steps.
 - Boundary and risk card.
+- Human reference manual (`05_HUMAN_MANUAL.md`) with architecture, source notes, and failure taxonomy.
 - Source attribution.
 
 ## AGENTS.md for Claude Code and AI Coding Agents

@@ -10,7 +10,7 @@ Languages: English | [中文](./README.zh-CN.md)
 
 Multi-agent orchestration breaks at agent handoffs, message routing, and shared state boundaries.
 
-This is an independent AI context resource pack for VRSEN/agency-swarm.: host instructions, prompt preview, evals, pitfalls, and recovery rules you can load into Claude Code, Codex, Cursor, Aider, and other AI coding agents.
+This is an independent AI context resource pack for VRSEN/agency-swarm: host instructions, prompt preview, evals, pitfalls, and recovery rules you can load into Claude Code, Codex, Cursor, Aider, and other AI coding agents.
 
 This independent capability pack gives AI coding hosts verifiable agency-swarm workflows with coordination rules, boundary checks, and recovery steps for real failures.
 
